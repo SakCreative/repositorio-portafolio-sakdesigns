@@ -13,7 +13,7 @@ export function Footer() {
             camachoser182@gmail.com
           </a>
           <a
-            href="https://wa.me/573000000000?text=Hola%20Sergio"
+            href="https://wa.me/573177493600?text=Hola%20Sergio%20He%20visto%20tu%20portafolio%20y%20me%20gustaria%20contactarte"
             target="_blank"
             rel="noopener noreferrer"
             className="text-zinc-400 hover:text-brand transition-colors"
